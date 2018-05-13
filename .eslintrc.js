@@ -10,3 +10,7 @@
 module.exports = {
 	extends: 'ckeditor5'
 };
+
+
+
+; "html" 2 2 56"web"
